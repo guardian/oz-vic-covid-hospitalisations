@@ -73,7 +73,7 @@ def makeNswMedicalChart(df):
 	
 	template = [
 			{
-				"title": "NSW hospitalisations and deaths",
+				"title": "Vic hospitalisations and deaths",
 				"subtitle": "Hospitalisation figures are totals at each point in time, number of deaths is the cumulative sum from the 1st of June onwards. Last updated {date}".format(date=updatedText),
 				"footnote": "",
 				"source": " | Source: <a href='https://covidlive.com.au/' target='_blank'>Covidlive.com.au</a>",

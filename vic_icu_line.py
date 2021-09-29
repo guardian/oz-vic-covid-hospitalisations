@@ -78,7 +78,7 @@ template = [
 	"subtitle": f"Showing the number people in ICU over time, along with thresholds based on stated ICU capacity. Last updated {updated_date}.",
 	"footnote": "",
     "dateFormat": "%Y-%m-%d",
-	"source": "CovidLive.com.au",
+	"source": "<a href='https://covidlive.com.au/' target='_blank'>Covidlive.com.au</a>",
 	"margin-left": "50",
 	"margin-top": "30",
 	"margin-bottom": "20",
