@@ -75,7 +75,7 @@ updated_date = datetime.datetime.strftime(updated_date, "%-d %B %Y")
 template = [
 	{
 	"title": "Covid ICU numbers in Victoria v ICU capacity",
-	"subtitle": f"Showing the number people in ICU over time, along with thresholds based on stated ICU capacity. Last updated {updated_date}.",
+	"subtitle": f"Showing the number of Covid cases in ICU over time, along with thresholds based on stated ICU capacity. Last updated {updated_date}.",
 	"footnote": "",
     "dateFormat": "%Y-%m-%d",
 	"source": "<a href='https://covidlive.com.au/' target='_blank'>Covidlive.com.au</a>",
